@@ -1,0 +1,1 @@
+select distinct a.author_id as id from views a where  author_id=viewer_id order by a.author_id
